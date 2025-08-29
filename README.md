@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Danielsan0123/Danielsan0123/main/assets/lines/purple.png" width="100%">
+<img src="https://w7.pngwing.com/pngs/904/367/png-transparent-line-angle-font-line-purple-blue-angle.png" width="100%">
 </p>
 
 
@@ -20,7 +20,7 @@
 ## 🧠 Conhecimentos
 
 <div align="center">
-  <img height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBrbnB4Z3gwdjVqNWczNWY0dTc1M2R5dHh4d2Y1Y3Rtb3V1NjVwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11BbGyhVmk4iLS/giphy.gif">
+  <img height="160px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hnNGh2MXN0bzJ4cGlrc29hb2M4eGRvcGJ2bGJmNG5wdmE4N2RrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif">
 </div>
 
 <p align="left">
@@ -30,13 +30,13 @@ Tenho conhecimentos em:
 </p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-🌱 Atualmente estou aprendendo: **Python**, **Node.js** e **Java**
+🌱 Atualmente estou aprendendo: **Python** e **Node.js**
 
 ---
 
