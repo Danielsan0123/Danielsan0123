@@ -5,8 +5,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Danielsan0123&show_icons=true&theme=midnight-purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsan0123&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-## 🧠 Conhecimentos
-
 <div align="center">
   <img height="160px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hnNGh2MXN0bzJ4cGlrc29hb2M4eGRvcGJ2bGJmNG5wdmE4N2RrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif">
 </div>
