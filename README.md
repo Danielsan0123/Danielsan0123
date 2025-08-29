@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danielsan0123/readme/master/assets/lines/purple.png" width="100%">
+<img src="https://raw.githubusercontent.com/Danielsan0123/Danielsan0123/main/assets/lines/purple.png" width="100%">
 </p>
 
 
