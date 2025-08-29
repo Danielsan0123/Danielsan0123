@@ -8,10 +8,15 @@
 
 ---
 
-## ✨ Sobre a Fefer
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danielsan0123/master/assets/lines/purple.png" width="100%">
+</p>
+
+
+
+
 
 
 ---
