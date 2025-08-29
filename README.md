@@ -5,18 +5,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Danielsan0123&show_icons=true&theme=midnight-purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsan0123&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-
----
-
-
-<p align="center">
-<img src="https://w7.pngwing.com/pngs/904/367/png-transparent-line-angle-font-line-purple-blue-angle.png" width="100%">
-</p>
-
-
-
----
-
 ## 🧠 Conhecimentos
 
 <div align="center">
